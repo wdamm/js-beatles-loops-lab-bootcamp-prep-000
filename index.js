@@ -1,1 +1,10 @@
-// add solution here
+
+
+
+
+
+
+function theBeatlesPlay(mus, ins) {
+  newArr = []
+  for (let i = 0; )
+}
