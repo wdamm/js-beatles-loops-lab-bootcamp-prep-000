@@ -21,3 +21,10 @@ function johnLennonFacts(arr) {
   }
   return arr;
 }
+
+function iLoveTheBeatles(num) {
+  let arr = [];
+  do {
+    arr.push('I love the Beatles!');
+  } while 
+}
