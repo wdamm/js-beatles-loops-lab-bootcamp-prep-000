@@ -11,3 +11,8 @@ function theBeatlesPlay(mus, ins) {
   }
   return newArr;
 }
+
+
+function johnLennonFacts(arr) {
+  
+}
